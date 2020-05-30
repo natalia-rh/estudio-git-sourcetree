@@ -20,3 +20,4 @@ link del banco central
 
 me gusta el color amarillo 
 
+ejercicios.R
