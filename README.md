@@ -17,3 +17,6 @@ a continuacion colocaremos un emoticon
 
 link del banco central
 [banco central](https://www.bcentral.cl/web/banco-central/areas/politica-financiera)
+
+me gusta el color amarillo 
+
